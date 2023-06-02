@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 3. 👨‍💻 **[House Prices](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/house_prices.ipynb): 练习**
     通过对原始数据的探索, 数据清洗与预准备,并增加模型的特征列. 对数值数据进行简单相关性分析，用以衡量如何填充空值;例如对于缺失过多的列使用最近邻居的回归算法. 进行特征转换,数据缩放等,选择多个模型进行训练,并最终取得名次714,名次15%.
 
-4. 📊 **Glassdoor平台数据分析招聘岗位分析 Python**
+4. 📊 **[Glassdoor平台数据分析招聘岗位分析](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/Data%20Analyst%20Jobs.ipynb) Python**
     
     项目背景：利用Glassdoor平台的数据分析师招聘数据，对岗位进行深入分析，以了解行业趋势、需求和关键技能等，作为数据分析求职者得到更有针对性的建议
     
