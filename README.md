@@ -1,10 +1,10 @@
 # 个人项目
 
-1. 👨‍💻 **[Titanic-prediction](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/Titanic_prediction.ipynb): 练习**
+1. 👨‍💻 **[Titanic-prediction]**(https://github.com/uteundilse/Data-Analyst-Practice/blob/main/Titanic_prediction.ipynb): 练习  
     二分类预测问题, 为Titanic891名乘客预测是否在泰坦尼克号沉船事故中活下来. 通过分析乘客的人口统计学特征,对数据进行清洗和填补缺失值,例如使用KNN回归算法模型对年龄列进行填充; 并且构建了多个组合特征,并对类别型特征进行了标签编码。构建线性回归模型,最终达到92.3%的预测精度.
-2. 👨‍💻 **[California Housing Prices](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/California%20Housing%20Prices.ipynb):** **练习**
+2. 👨‍💻 **[California Housing Prices]**(https://github.com/uteundilse/Data-Analyst-Practice/blob/main/California%20Housing%20Prices.ipynb): 练习  
     通过对原始数据的探索, 数据清洗与预准备; 然后增加模型的特征列. 建立随机森林模型, 最终达到81.8%的准确度.
-3. 👨‍💻 **[House Prices](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/house_prices.ipynb): 练习**
+3. 👨‍💻 **[House Prices]**(https://github.com/uteundilse/Data-Analyst-Practice/blob/main/house_prices.ipynb): 练习   
     通过对原始数据的探索, 数据清洗与预准备,并增加模型的特征列. 对数值数据进行简单相关性分析，用以衡量如何填充空值;例如对于缺失过多的列使用最近邻居的回归算法. 进行特征转换,数据缩放等,选择多个模型进行训练,并最终取得名次714,名次15%.
 
 4. 📊 **[Glassdoor平台数据分析招聘岗位分析](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/Data%20Analyst%20Jobs.ipynb) Python**
