@@ -735,4 +735,3 @@ FROM ute;
     - `MEDIUMBLOB`  Blob最大长度为16 MB
     - `LONGBLOB`     Blob最大长度为4 GB
     - `TINYBLOB`     Blob最大长度为255字节
-7.
