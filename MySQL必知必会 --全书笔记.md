@@ -576,8 +576,6 @@ SHOW VARIABLES LIKE 'collation%'`
 
 ### 安全管理
 
-[第十五章：保护数据库 Securing Databases](https://www.notion.so/Securing-Databases-153194540de9467d8cedde99d3d1a039?pvs=21) 
-
 1. 访问控制
 2. 创建用户账号
 `CREATE USER ute IDENTIFIED BY ‘passwoard’;`
