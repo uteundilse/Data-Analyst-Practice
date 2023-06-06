@@ -7,14 +7,14 @@
     - 结果与建议：基于个性分析结果，提出了针对不同客户群体的个性化营销策略的建议，以优化产品、提高营销效率和客户满意度。
 
 
-2. 📊 **[Glassdoor平台数据分析招聘岗位分析](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/Data%20Analyst%20Jobs.ipynb) **
+2. 📊 [Glassdoor平台数据分析招聘岗位分析](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/Data%20Analyst%20Jobs.ipynb)
     
     - 项目背景：利用Glassdoor平台的数据分析师招聘数据，对岗位进行深入分析，以了解行业趋势、需求和关键技能等，作为数据分析求职者得到更有针对性的建议
     - 数据预处理：对数据进行清洗和处理，去除重复项、处理缺失值和异常值，确保数据的准确性和一致性
     - 相关性分析：利用python采取过滤，相关性分析和特征重要性排序等手段，提炼多个关键指标，选择重要特征进行分析，如薪资水平与经验、学历之间的关系，通过相关性分析揭示影响薪资的因素
     - 结果与建议：通过对Glassdoor平台的数据分析招聘岗位进行深入分析，揭示了数据分析岗位在金融和科技行业的快速增长趋势。关键技能包括SQL、Excel、Python和数据可视化工具等
     
-3. 📊 **[星巴克促销活动分析](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/Starbucks.ipynb) **
+3. 📊 [星巴克促销活动分析](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/Starbucks.ipynb) 
 
     - 项目背景:分析星巴克活动期间不同营销活动对客户交易数据的影响,以确定不同客户群体的定位,提高客户粘性和品牌认知,从而增加总体收入。
     - 数据预处理:对数据集进行清洗,包括处理缺失值和异常值。缺失值采用平均值、众数填补;异常值采取上下四分位数法，并标准化数据,使变量可比。
