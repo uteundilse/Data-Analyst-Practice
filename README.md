@@ -38,12 +38,13 @@
     - 数据处理:对原始数据进行清洗、转换和整合，构建星型数据仓库模型。设计事实表存储各指标的日常统计数据，维度表定义基本属性。计算并添加同比增长率与利润率等度量值,实现多维度灵活分析。
 
     - 报表设计与开发:根据指标体系，定制直观的报表结构与界面。选择条形图、折线图、饼图等展示关键指标的历史变化、同期比较与占比。添加报表过滤、指标搜索等功能增强用户体验,实现实时监控与运营管理。
- 
-5.  👨‍💻 **[Titanic-prediction](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/Titanic_prediction.ipynb)**: 练习  
+ ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+ ## 练习项目
+1.  👨‍💻 **[Titanic-prediction](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/Titanic_prediction.ipynb)**:   
     二分类预测问题, 为Titanic891名乘客预测是否在泰坦尼克号沉船事故中活下来. 通过分析乘客的人口统计学特征,对数据进行清洗和填补缺失值,例如使用KNN回归算法模型对年龄列进行填充; 并且构建了多个组合特征,并对类别型特征进行了标签编码。构建线性回归模型,最终达到92.3%的预测精度.
-6. 👨‍💻 **[California Housing Prices](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/California%20Housing%20Prices.ipynb)**: 练习  
+2. 👨‍💻 **[California Housing Prices](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/California%20Housing%20Prices.ipynb)**:   
     通过对原始数据的探索, 数据清洗与预准备; 然后增加模型的特征列. 建立随机森林模型, 最终达到81.8%的准确度.
-7. 👨‍💻 **[House Prices](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/house_prices.ipynb)**: 练习   
+3. 👨‍💻 **[House Prices](https://github.com/uteundilse/Data-Analyst-Practice/blob/main/house_prices.ipynb)**:   
     通过对原始数据的探索, 数据清洗与预准备,并增加模型的特征列. 对数值数据进行简单相关性分析，用以衡量如何填充空值;例如对于缺失过多的列使用最近邻居的回归算法. 进行特征转换,数据缩放等,选择多个模型进行训练,并最终取得名次714,名次15%.
  
 
